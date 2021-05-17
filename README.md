@@ -33,7 +33,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/lukemorales/react-rocketshoes
+$ git clone https://github.com/heberleonard2/e-commerce-react.git
 
 # Go into the repository
 $ cd react-rocketshoes
