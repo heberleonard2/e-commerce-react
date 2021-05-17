@@ -36,7 +36,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 $ git clone https://github.com/heberleonard2/e-commerce-react.git
 
 # Go into the repository
-$ cd react-rocketshoes
+$ cd e-commerce-react
 
 # Install dependencies
 $ yarn install
