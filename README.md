@@ -1,9 +1,3 @@
-<h1 align="center">
-    <img alt="React RocketShoes" src="https://res.cloudinary.com/heberleonard/image/upload/v1621258571/rocketshoes_azm4ub.png" />
-    <br>
-    React RocketShoes
-</h1>
-
 <h4 align="center">
   NetShoes Clone App.
 </h4>
