@@ -15,17 +15,22 @@
 
 ![App Screenshot](https://res.cloudinary.com/heberleonard/image/upload/v1621258720/rocketshoes_readme_swvhr9_sjjbar.png)
 
+<p align="center">
+  <a href="react-ecommerce-heber.netlify.app" target="_blank">
+    <img alt="Demo on Netlify" src="https://res.cloudinary.com/heberleonard/image/upload/v1621372550/demo_on_netlify_cjzaia.png">
+  </a>
+</p>
 
 ## :rocket: Technologies
 
 This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) with the following technologies:
 
--  [ReactJS with Context API](https://reactjs.org/)
--  [React Router](https://github.com/ReactTraining/react-router)
--  [Axios](https://github.com/axios/axios)
--  [React-Toastify](https://fkhadra.github.io/react-toastify/)
--  [styled-components](https://www.styled-components.com/)
--  [json-server](https://github.com/typicode/json-server)
+- [ReactJS with Context API](https://reactjs.org/)
+- [React Router](https://github.com/ReactTraining/react-router)
+- [Axios](https://github.com/axios/axios)
+- [React-Toastify](https://fkhadra.github.io/react-toastify/)
+- [styled-components](https://www.styled-components.com/)
+- [json-server](https://github.com/typicode/json-server)
 
 ## :information_source: How To Use
 
